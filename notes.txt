@@ -1,3 +1,4 @@
-git init // for initializing resporitory
+git init // for initializing reporitory
 git add <file>
 git commit -m "your commit message"
+git clone + URL for cloning repository
